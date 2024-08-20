@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rXLKXvcYbM0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igor_\\Documents\\Programação\\new\\trilha-net-poo-desafio\\DesafioPOO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igor_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\igor_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\igor_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\igor_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
